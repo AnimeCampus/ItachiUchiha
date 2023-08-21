@@ -232,7 +232,7 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates",
-                                url="https://t.me/OnePunchUpdates",
+                                url="https://t.me/JujutsuBotUpdates",
                             ),
                         ],
                         [
@@ -241,14 +241,14 @@ def start(update: Update, context: CallbackContext):
                                 url="https://t.me/OnePunchUpdates/29",
                             ),
                             InlineKeyboardButton(
-                                text="🗄 Source code",
-                                url="https://github.com/AnimeKaizoku/SaitamaRobot",
+                                text="🥷 Owner",
+                                url="SexyNano.t.me",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="☠️ Kaizoku Network",
-                                url="https://t.me/Kaizoku/4",
+                                text="☠️ Jujutsu High Network",
+                                url="https://t.me/JujutsuHighNetwork",
                             ),
                         ],
                     ],
